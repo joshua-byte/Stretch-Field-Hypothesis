@@ -11,11 +11,6 @@ This repository contains Python code for testing the **Stretch Field Hypothesis 
  SFH_fitting.ipynb 
 
 
-yaml
-Copy code
-
----
-
 ## Requirements
 
 - Python 3.8+
