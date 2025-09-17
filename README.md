@@ -19,3 +19,7 @@ This repository contains Python code for testing the **Stretch Field Hypothesis 
   - `scipy`
   - `matplotlib`
   - `pandas`
+
+## Plots
+<img width="1779" height="1180" alt="emprical" src="https://github.com/user-attachments/assets/fe87427b-cada-475f-9781-10ce2bbd1cca" />
+<img width="1780" height="680" alt="empirical_1" src="https://github.com/user-attachments/assets/45ed6e4a-4a9b-47b3-98de-88ec5772edc0" />
